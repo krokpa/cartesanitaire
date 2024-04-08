@@ -1,0 +1,191 @@
+{
+    "regions_administratives": [
+      {
+        "idregion":1,
+        "nom": "N’Zi",
+        "latitude": 6.65,
+        "longitude": -4.7
+      },
+      {
+        "idregion":2,
+        "nom": "Iffou",
+        "latitude": 7.25,
+        "longitude": -3.866667
+      },
+      {
+        "idregion":3,
+        "nom": "Bélier",
+        "latitude": 6.916667,
+        "longitude": -5.05
+      },
+      {
+        "idregion":4,
+        "nom": "Moronou",
+        "latitude": 9.8008,
+        "longitude": -6.1018
+      },
+      {
+        "idregion":5,
+        "nom": "Indénié-Djuablin",
+        "latitude": 7.7198,
+        "longitude": -7.2134
+      },
+      {
+        "idregion":6,
+        "nom": "Sud-Comoé",
+        "latitude": 6.3558,
+        "longitude": -5.9963
+      },
+      {
+        "idregion":7,
+        "nom": "Folon",
+        "latitude": 7.6249,
+        "longitude": -6.7126
+      },
+      {
+        "idregion":8,
+        "nom": "Kabadougou",
+        "latitude": 6.6937,
+        "longitude": -5.0379
+      },
+      {
+        "idregion":9,
+        "nom": "Gôh",
+        "latitude": 5.3887,
+        "longitude": -4.0767
+      },
+      {
+        "idregion":10,
+        "nom": "Lôh-Djiboua",
+        "latitude": 7.5925,
+        "longitude": -5.0144
+      },
+      {
+        "idregion":11,
+        "nom": "Agnéby-Tiassa",
+        "latitude": 6.5127,
+        "longitude": -7.7596
+      },
+      {
+        "idregion":12,
+        "nom": "Mé",
+        "latitude": 6.4399,
+        "longitude": -3.4206
+      },
+      {
+        "idregion":13,
+        "nom": "Grands-Ponts",
+        "latitude": 6.1317,
+        "longitude": -3.2576
+      },
+      {
+        "idregion":14,
+        "nom": "Tonkpi",
+        "latitude": 9.5203,
+        "longitude": -5.6779
+      },
+      {
+        "idregion":15,
+        "nom": "Cavally",
+        "latitude": 5.7807,
+        "longitude": -5.0175
+      },
+      {
+        "idregion":16,
+        "nom": "Guémon",
+        "latitude": 5.7195,
+        "longitude": -3.2033
+      },
+      {
+        "idregion":17,
+        "nom": "Haut-Sassandra",
+        "latitude": 7.9456,
+        "longitude": -4.0976
+      },
+      {
+        "idregion":18,
+        "nom": "Marahoué",
+        "latitude": 8.0739,
+        "longitude": -6.7898
+      },
+      {
+        "idregion":19,
+        "nom": "Poro",
+        "latitude": 8.1037,
+        "longitude": -3.7386
+      },
+      {
+        "idregion":20,
+        "nom": "Tchologo",
+        "latitude": 8.1037,
+        "longitude": -3.7386
+      },
+      {
+        "idregion":21,
+        "nom": "Bagoué",
+        "latitude": 8.1037,
+        "longitude": -3.7386
+      },
+      {
+        "idregion":22,
+        "nom": "Nawa",
+        "latitude": 8.1037,
+        "longitude": -3.7386
+      },
+      {
+        "idregion":23,
+        "nom": "San-Pédro",
+        "latitude": 8.1037,
+        "longitude": -3.7386
+      },
+      {
+        "idregion":24,
+        "nom": "Gbôklé",
+        "latitude": 8.1037,
+        "longitude": -3.7386
+      },
+      {
+        "idregion":25,
+        "nom": "Hambol",
+        "latitude": 8.1037,
+        "longitude": -3.7386
+      },
+      {
+        "idregion":26,
+        "nom": "Gbêkê",
+        "latitude": 8.1037,
+        "longitude": -3.7386
+      },
+      {
+        "idregion":27,
+        "nom": "Béré",
+        "latitude": 8.1037,
+        "longitude": -3.7386
+      },
+      {
+        "idregion":28,
+        "nom": "Bafing",
+        "latitude": 8.1037,
+        "longitude": -3.7386
+      },
+      {
+        "idregion":29,
+        "nom": "Worodougou",
+        "latitude": 8.1037,
+        "longitude": -3.7386
+      },
+      {
+        "idregion":30,
+        "nom": "Bounkani",
+        "latitude": 8.1037,
+        "longitude": -3.7386
+      },
+      {
+        "idregion":31,
+        "nom": "Gontougo",
+        "latitude": 8.1037,
+        "longitude": -3.7386
+      }
+    ]
+  }
+  
