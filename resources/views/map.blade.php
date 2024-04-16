@@ -51,18 +51,14 @@
 
 <!-- Bootstrap Modal -->
 
-@foreach ($finaldata as $key => $citydata)
+@foreach ($localites as $key => $citydata)
 
-  <div class="modal fade" id="modal-city-{{ $citydata->keyid }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal fade" id="modal-city-{{ $key }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-xl" role="document">
       <div class="modal-content">
         <div class="modal-header">
           <h5 class="modal-title" id="exampleModalLabel"><span id="modaltitle"></span>
-            @if ($citydata->datatype == "maladie")
-              FICHE DE RELEVE PARASITAIRE SUR ANACARDIER
-            @else
-              FICHE D’OBERVATION DES INSECTES RAVAGEURS DE L'ANACARDIER
-            @endif
+              FICHE 
           </h5>
           <button type="button" class="close" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
@@ -523,7 +519,7 @@
         }
 
   // Define marker coordinates and information
-  var data = {!! json_encode($finaldata) !!}
+  var data = {!! json_encode($localites) !!}
 
   // Add markers to the map
   data.forEach(function(city) {
